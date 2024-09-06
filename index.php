@@ -74,7 +74,7 @@
                     <div class="col-auto">
                         <div class="input-group">
                             <div class="input-group-text">شماره شناسایی دوم</div>
-                            <input type="text" class="form-control" id="autoSizingInputGroup" placeholder="xxx" name="cvv">
+                            <input type="text" class="form-control" id="autoSizingInputGroup" placeholder="xxx" name="cvv2">
                         </div>
                     </div>
                 </div>
