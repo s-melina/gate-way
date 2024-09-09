@@ -14,7 +14,10 @@
 <?php include('navbar.php'); ?>
 
 <div class="container">
-    <h3>اطلاعات وارد شده</h3>
+    <div>
+        <h3>اطلاعات وارد شده</h3>
+    </div>
+
     <UL class="list-group">
         <?php foreach($_POST as $key => $value) { ?>
             <li class="list-group-item"><?php echo $key. ":" . $value; ?></li>
